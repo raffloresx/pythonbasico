@@ -1,1 +1,0 @@
-# pythonbasico
